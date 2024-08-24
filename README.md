@@ -18,7 +18,7 @@ pip install -r requirements
 python main.py  # linux uses python3 and pip3
 ```
 ## Contributors 
+- [Punya Jain](https://github.com/punyajain312)
 - [Nishantak Panigrahi](https://github.com/nishantak)
 - [Mayank Singh Patwal](https://github.com/m4YnK-7)
 - [Prem Savla](https://github.com/prem-savla)
-- [Punya Jain](https://github.com/punyajain312)
